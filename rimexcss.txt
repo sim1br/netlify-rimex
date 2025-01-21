@@ -1,0 +1,555 @@
+.skip-link { 
+
+}
+
+.hfeed { 
+
+}
+
+.hfeed .site-header { 
+
+}
+
+.hfeed .site-header #ast-desktop-header { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-above-header-wrap { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-above-header-wrap .ast-above-header-bar { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-above-header-wrap .ast-above-header-bar .site-above-header-wrap { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-above-header-wrap .ast-above-header-bar .site-above-header-wrap .ast-builder-grid-row { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-above-header-wrap .ast-above-header-bar .site-above-header-wrap .ast-builder-grid-row .site-header-above-section-left { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-above-header-wrap .ast-above-header-bar .site-above-header-wrap .ast-builder-grid-row .site-header-above-section-left .site-header-above-section-left-center { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-above-header-wrap .ast-above-header-bar .site-above-header-wrap .ast-builder-grid-row .site-header-above-section-center { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-above-header-wrap .ast-above-header-bar .site-above-header-wrap .ast-builder-grid-row .site-header-above-section-center .ast-builder-layout-element { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-above-header-wrap .ast-above-header-bar .site-above-header-wrap .ast-builder-grid-row .site-header-above-section-center .ast-builder-layout-element .ast-header-html { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-above-header-wrap .ast-above-header-bar .site-above-header-wrap .ast-builder-grid-row .site-header-above-section-center .ast-builder-layout-element .ast-header-html .ast-builder-html-element { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-above-header-wrap .ast-above-header-bar .site-above-header-wrap .ast-builder-grid-row .site-header-above-section-center .ast-builder-layout-element .ast-header-html .ast-builder-html-element p { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-above-header-wrap .ast-above-header-bar .site-above-header-wrap .ast-builder-grid-row .site-header-above-section-center .ast-builder-layout-element .ast-header-html .ast-builder-html-element p strong { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-above-header-wrap .ast-above-header-bar .site-above-header-wrap .ast-builder-grid-row .site-header-above-section-center .ast-builder-layout-element .ast-header-html .ast-builder-html-element p strong a { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-above-header-wrap .ast-above-header-bar .site-above-header-wrap .ast-builder-grid-row .site-header-above-section-right { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-above-header-wrap .ast-above-header-bar .site-above-header-wrap .ast-builder-grid-row .site-header-above-section-right .site-header-above-section-right-center { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-above-header-wrap .ast-above-header-bar .site-above-header-wrap .ast-builder-grid-row .site-header-above-section-right .ast-builder-layout-element { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-above-header-wrap .ast-above-header-bar .site-above-header-wrap .ast-builder-grid-row .site-header-above-section-right .ast-builder-layout-element .ast-header-social-1-wrap { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-above-header-wrap .ast-above-header-bar .site-above-header-wrap .ast-builder-grid-row .site-header-above-section-right .ast-builder-layout-element .ast-header-social-1-wrap .header-social-inner-wrap { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-main-header-wrap { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-main-header-wrap .ast-primary-header-bar { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-main-header-wrap .ast-primary-header-bar .site-primary-header-wrap { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-main-header-wrap .ast-primary-header-bar .site-primary-header-wrap .ast-builder-grid-row { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-main-header-wrap .ast-primary-header-bar .site-primary-header-wrap .ast-builder-grid-row .site-header-primary-section-left { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-main-header-wrap .ast-primary-header-bar .site-primary-header-wrap .ast-builder-grid-row .site-header-primary-section-left .ast-builder-layout-element { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-main-header-wrap .ast-primary-header-bar .site-primary-header-wrap .ast-builder-grid-row .site-header-primary-section-left .ast-builder-layout-element .site-branding { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-main-header-wrap .ast-primary-header-bar .site-primary-header-wrap .ast-builder-grid-row .site-header-primary-section-left .ast-builder-layout-element .site-branding .site-logo-img { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-main-header-wrap .ast-primary-header-bar .site-primary-header-wrap .ast-builder-grid-row .site-header-primary-section-left .ast-builder-layout-element .site-branding .site-logo-img .custom-logo-link { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-main-header-wrap .ast-primary-header-bar .site-primary-header-wrap .ast-builder-grid-row .site-header-primary-section-left .ast-builder-layout-element .site-branding .site-logo-img .custom-logo-link .custom-logo { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-main-header-wrap .ast-primary-header-bar .site-primary-header-wrap .ast-builder-grid-row .site-header-primary-section-right { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-main-header-wrap .ast-primary-header-bar .site-primary-header-wrap .ast-builder-grid-row .site-header-primary-section-right .ast-builder-menu-1 { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-main-header-wrap .ast-primary-header-bar .site-primary-header-wrap .ast-builder-grid-row .site-header-primary-section-right .ast-builder-menu-1 .ast-main-header-bar-alignment { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-main-header-wrap .ast-primary-header-bar .site-primary-header-wrap .ast-builder-grid-row .site-header-primary-section-right .ast-builder-menu-1 .ast-main-header-bar-alignment .main-header-bar-navigation { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-main-header-wrap .ast-primary-header-bar .site-primary-header-wrap .ast-builder-grid-row .site-header-primary-section-right .ast-builder-menu-1 .ast-main-header-bar-alignment .main-header-bar-navigation .site-navigation { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-main-header-wrap .ast-primary-header-bar .site-primary-header-wrap .ast-builder-grid-row .site-header-primary-section-right .ast-builder-menu-1 .ast-main-header-bar-alignment .main-header-bar-navigation .site-navigation .main-navigation { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-main-header-wrap .ast-primary-header-bar .site-primary-header-wrap .ast-builder-grid-row .site-header-primary-section-right .ast-builder-menu-1 .ast-main-header-bar-alignment .main-header-bar-navigation .site-navigation .main-navigation .main-header-menu { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-main-header-wrap .ast-primary-header-bar .site-primary-header-wrap .ast-builder-grid-row .site-header-primary-section-right .ast-builder-menu-1 .ast-main-header-bar-alignment .main-header-bar-navigation .site-navigation .main-navigation .main-header-menu .menu-item { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-main-header-wrap .ast-primary-header-bar .site-primary-header-wrap .ast-builder-grid-row .site-header-primary-section-right .ast-builder-menu-1 .ast-main-header-bar-alignment .main-header-bar-navigation .site-navigation .main-navigation .main-header-menu .menu-item .menu-link { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-main-header-wrap .ast-primary-header-bar .site-primary-header-wrap .ast-builder-grid-row .site-header-primary-section-right .ast-builder-layout-element { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-main-header-wrap .ast-primary-header-bar .site-primary-header-wrap .ast-builder-grid-row .site-header-primary-section-right .ast-builder-layout-element .ast-builder-button-wrap { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-main-header-wrap .ast-primary-header-bar .site-primary-header-wrap .ast-builder-grid-row .site-header-primary-section-right .ast-builder-layout-element .ast-builder-button-wrap .ast-custom-button-link { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-main-header-wrap .ast-primary-header-bar .site-primary-header-wrap .ast-builder-grid-row .site-header-primary-section-right .ast-builder-layout-element .ast-builder-button-wrap .ast-custom-button-link .ast-custom-button { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-main-header-wrap .ast-primary-header-bar .site-primary-header-wrap .ast-builder-grid-row .site-header-primary-section-right .ast-builder-layout-element .ast-builder-button-wrap .menu-link { 
+
+}
+
+.hfeed .site-header #ast-desktop-header .ast-desktop-header-content { 
+
+}
+
+.hfeed .site-header .ast-mobile-header-wrap { 
+
+}
+
+.hfeed .site-header .ast-mobile-header-wrap .ast-main-header-wrap { 
+
+}
+
+.hfeed .site-header .ast-mobile-header-wrap .ast-main-header-wrap .ast-primary-header-bar { 
+
+}
+
+.hfeed .site-header .ast-mobile-header-wrap .ast-main-header-wrap .ast-primary-header-bar .ast-builder-grid-row { 
+
+}
+
+.hfeed .site-header .ast-mobile-header-wrap .ast-main-header-wrap .ast-primary-header-bar .ast-builder-grid-row .site-header-primary-section-left { 
+
+}
+
+.hfeed .site-header .ast-mobile-header-wrap .ast-main-header-wrap .ast-primary-header-bar .ast-builder-grid-row .site-header-primary-section-left .ast-builder-layout-element { 
+
+}
+
+.hfeed .site-header .ast-mobile-header-wrap .ast-main-header-wrap .ast-primary-header-bar .ast-builder-grid-row .site-header-primary-section-left .ast-builder-layout-element .site-branding { 
+
+}
+
+.hfeed .site-header .ast-mobile-header-wrap .ast-main-header-wrap .ast-primary-header-bar .ast-builder-grid-row .site-header-primary-section-left .ast-builder-layout-element .site-branding .site-logo-img { 
+
+}
+
+.hfeed .site-header .ast-mobile-header-wrap .ast-main-header-wrap .ast-primary-header-bar .ast-builder-grid-row .site-header-primary-section-left .ast-builder-layout-element .site-branding .site-logo-img .custom-logo-link { 
+
+}
+
+.hfeed .site-header .ast-mobile-header-wrap .ast-main-header-wrap .ast-primary-header-bar .ast-builder-grid-row .site-header-primary-section-left .ast-builder-layout-element .site-branding .site-logo-img .custom-logo-link .custom-logo { 
+
+}
+
+.hfeed .site-header .ast-mobile-header-wrap .ast-main-header-wrap .ast-primary-header-bar .ast-builder-grid-row .site-header-primary-section-right { 
+
+}
+
+.hfeed .site-header .ast-mobile-header-wrap .ast-main-header-wrap .ast-primary-header-bar .ast-builder-grid-row .site-header-primary-section-right .ast-builder-layout-element { 
+
+}
+
+.hfeed .site-header .ast-mobile-header-wrap .ast-main-header-wrap .ast-primary-header-bar .ast-builder-grid-row .site-header-primary-section-right .ast-builder-layout-element .ast-button-wrap { 
+
+}
+
+.hfeed .site-header .ast-mobile-header-wrap .ast-main-header-wrap .ast-primary-header-bar .ast-builder-grid-row .site-header-primary-section-right .ast-builder-layout-element .ast-button-wrap .menu-toggle { 
+
+}
+
+.hfeed .site-header .ast-mobile-header-wrap .ast-main-header-wrap .ast-primary-header-bar .ast-builder-grid-row .site-header-primary-section-right .ast-builder-layout-element .ast-button-wrap .menu-toggle .screen-reader-text { 
+
+}
+
+.hfeed .site-header .ast-mobile-header-wrap .ast-main-header-wrap .ast-primary-header-bar .ast-builder-grid-row .site-header-primary-section-right .ast-builder-layout-element .ast-button-wrap .menu-toggle .mobile-menu-toggle-icon { 
+
+}
+
+.hfeed .site-header .ast-mobile-header-wrap .ast-main-header-wrap .ast-primary-header-bar .ast-builder-grid-row .site-header-primary-section-right .ast-builder-layout-element .ast-button-wrap .menu-toggle .mobile-menu-toggle-icon .ahfb-svg-iconset { 
+
+}
+
+.hfeed .site-header .ast-mobile-header-wrap .ast-main-header-wrap .ast-primary-header-bar .ast-builder-grid-row .site-header-primary-section-right .ast-builder-layout-element .ast-button-wrap .menu-toggle .mobile-menu-toggle-icon .ahfb-svg-iconset .ast-mobile-svg { 
+
+}
+
+.hfeed .site-header .ast-mobile-header-wrap .ast-main-header-wrap .ast-primary-header-bar .ast-builder-grid-row .site-header-primary-section-right .ast-builder-layout-element .ast-button-wrap .menu-toggle .mobile-menu-toggle-icon .ahfb-svg-iconset .ast-mobile-svg path { 
+
+}
+
+.hfeed .site-header .ast-mobile-header-wrap .ast-mobile-header-content { 
+
+}
+
+.hfeed .site-header .ast-mobile-header-wrap .ast-mobile-header-content .ast-builder-menu-1 { 
+
+}
+
+.hfeed .site-header .ast-mobile-header-wrap .ast-mobile-header-content .ast-builder-menu-1 .ast-main-header-bar-alignment { 
+
+}
+
+.hfeed .site-header .ast-mobile-header-wrap .ast-mobile-header-content .ast-builder-menu-1 .ast-main-header-bar-alignment .main-header-bar-navigation { 
+
+}
+
+.hfeed .site-header .ast-mobile-header-wrap .ast-mobile-header-content .ast-builder-menu-1 .ast-main-header-bar-alignment .main-header-bar-navigation .site-navigation { 
+
+}
+
+.hfeed .site-header .ast-mobile-header-wrap .ast-mobile-header-content .ast-builder-menu-1 .ast-main-header-bar-alignment .main-header-bar-navigation .site-navigation .main-navigation { 
+
+}
+
+.hfeed .site-header .ast-mobile-header-wrap .ast-mobile-header-content .ast-builder-menu-1 .ast-main-header-bar-alignment .main-header-bar-navigation .site-navigation .main-navigation .main-header-menu { 
+
+}
+
+.hfeed .site-header .ast-mobile-header-wrap .ast-mobile-header-content .ast-builder-menu-1 .ast-main-header-bar-alignment .main-header-bar-navigation .site-navigation .main-navigation .main-header-menu .menu-item { 
+
+}
+
+.hfeed .site-header .ast-mobile-header-wrap .ast-mobile-header-content .ast-builder-menu-1 .ast-main-header-bar-alignment .main-header-bar-navigation .site-navigation .main-navigation .main-header-menu .menu-item .menu-link { 
+
+}
+
+.hfeed .site-header .ast-mobile-header-wrap .ast-mobile-header-content .ast-builder-layout-element { 
+
+}
+
+.hfeed .site-header .ast-mobile-header-wrap .ast-mobile-header-content .ast-builder-layout-element .ast-builder-button-wrap { 
+
+}
+
+.hfeed .site-header .ast-mobile-header-wrap .ast-mobile-header-content .ast-builder-layout-element .ast-builder-button-wrap .ast-custom-button-link { 
+
+}
+
+.hfeed .site-header .ast-mobile-header-wrap .ast-mobile-header-content .ast-builder-layout-element .ast-builder-button-wrap .ast-custom-button-link .ast-custom-button { 
+
+}
+
+.hfeed .site-header .ast-mobile-header-wrap .ast-mobile-header-content .ast-builder-layout-element .ast-builder-button-wrap .menu-link { 
+
+}
+
+.hfeed .site-content { 
+
+}
+
+.hfeed .site-content .ast-container { 
+
+}
+
+.hfeed .site-content .ast-container .content-area { 
+
+}
+
+.hfeed .site-content .ast-container .content-area .site-main { 
+
+}
+
+.hfeed .site-content .ast-container .content-area .site-main .post-779 { 
+
+}
+
+.hfeed .site-content .ast-container .content-area .site-main .post-779 .entry-header { 
+
+}
+
+.hfeed .site-content .ast-container .content-area .site-main .post-779 .entry-content { 
+
+}
+
+.hfeed .site-content .ast-container .content-area .site-main .post-779 .entry-content .elementor { 
+
+}
+
+.hfeed .site-content .ast-container .content-area .site-main .post-779 .entry-content .elementor .elementor-section-wrap { 
+
+}
+
+.hfeed .site-content .ast-container .content-area .site-main .post-779 .entry-content .elementor .elementor-section-wrap .elementor-section { 
+
+}
+
+.hfeed .site-content .ast-container .content-area .site-main .post-779 .entry-content .elementor .elementor-section-wrap .elementor-section .elementor-container { 
+
+}
+
+.hfeed .site-content .ast-container .content-area .site-main .post-779 .entry-content .elementor .elementor-section-wrap .elementor-section .elementor-container .elementor-column { 
+
+}
+
+.hfeed .site-content .ast-container .content-area .site-main .post-779 .entry-content .elementor .elementor-section-wrap .elementor-section .elementor-container .elementor-column .elementor-widget-wrap { 
+
+}
+
+.hfeed .site-content .ast-container .content-area .site-main .post-779 .entry-content .elementor .elementor-section-wrap .elementor-section .elementor-container .elementor-column .elementor-widget-wrap .elementor-element { 
+
+}
+
+.hfeed .site-content .ast-container .content-area .site-main .post-779 .entry-content .elementor .elementor-section-wrap .elementor-section .elementor-container .elementor-column .elementor-widget-wrap .elementor-element .elementor-widget-container { 
+
+}
+
+.hfeed .site-content .ast-container .content-area .site-main .post-779 .entry-content .elementor .elementor-section-wrap .elementor-section .elementor-container .elementor-column .elementor-widget-wrap .elementor-element .elementor-widget-container .elementor-heading-title { 
+
+}
+
+.hfeed .site-footer { 
+
+}
+
+.hfeed .site-footer .site-primary-footer-wrap { 
+
+}
+
+.hfeed .site-footer .site-primary-footer-wrap .ast-builder-grid-row-container-inner { 
+
+}
+
+.hfeed .site-footer .site-primary-footer-wrap .ast-builder-grid-row-container-inner .ast-builder-footer-grid-columns { 
+
+}
+
+.hfeed .site-footer .site-primary-footer-wrap .ast-builder-grid-row-container-inner .ast-builder-footer-grid-columns .site-footer-primary-section-1 { 
+
+}
+
+.hfeed .site-footer .site-primary-footer-wrap .ast-builder-grid-row-container-inner .ast-builder-footer-grid-columns .site-footer-primary-section-1 .footer-widget-area { 
+
+}
+
+.hfeed .site-footer .site-primary-footer-wrap .ast-builder-grid-row-container-inner .ast-builder-footer-grid-columns .site-footer-primary-section-1 .footer-widget-area .footer-widget-area-inner { 
+
+}
+
+.hfeed .site-footer .site-primary-footer-wrap .ast-builder-grid-row-container-inner .ast-builder-footer-grid-columns .site-footer-primary-section-1 .footer-widget-area .footer-widget-area-inner .widget { 
+
+}
+
+.hfeed .site-footer .site-primary-footer-wrap .ast-builder-grid-row-container-inner .ast-builder-footer-grid-columns .site-footer-primary-section-1 .footer-widget-area .footer-widget-area-inner .widget .widget-title { 
+
+}
+
+.hfeed .site-footer .site-primary-footer-wrap .ast-builder-grid-row-container-inner .ast-builder-footer-grid-columns .site-footer-primary-section-1 .footer-widget-area .footer-widget-area-inner .widget .textwidget { 
+
+}
+
+.hfeed .site-footer .site-primary-footer-wrap .ast-builder-grid-row-container-inner .ast-builder-footer-grid-columns .site-footer-primary-section-1 .footer-widget-area .footer-widget-area-inner .widget .textwidget p { 
+
+}
+
+.hfeed .site-footer .site-primary-footer-wrap .ast-builder-grid-row-container-inner .ast-builder-footer-grid-columns .site-footer-primary-section-1 .footer-widget-area .footer-widget-area-inner .widget .textwidget p a { 
+
+}
+
+.hfeed .site-footer .site-primary-footer-wrap .ast-builder-grid-row-container-inner .ast-builder-footer-grid-columns .site-footer-primary-section-1 .footer-widget-area .footer-widget-area-inner .widget .textwidget p a strong { 
+
+}
+
+.hfeed .site-footer .site-primary-footer-wrap .ast-builder-grid-row-container-inner .ast-builder-footer-grid-columns .site-footer-primary-section-2 { 
+
+}
+
+.hfeed .site-footer .site-primary-footer-wrap .ast-builder-grid-row-container-inner .ast-builder-footer-grid-columns .site-footer-primary-section-2 .footer-widget-area { 
+
+}
+
+.hfeed .site-footer .site-primary-footer-wrap .ast-builder-grid-row-container-inner .ast-builder-footer-grid-columns .site-footer-primary-section-2 .footer-widget-area .footer-widget-area-inner { 
+
+}
+
+.hfeed .site-footer .site-primary-footer-wrap .ast-builder-grid-row-container-inner .ast-builder-footer-grid-columns .site-footer-primary-section-2 .footer-widget-area .footer-widget-area-inner .widget { 
+
+}
+
+.hfeed .site-footer .site-primary-footer-wrap .ast-builder-grid-row-container-inner .ast-builder-footer-grid-columns .site-footer-primary-section-2 .footer-widget-area .footer-widget-area-inner .widget .widget-title { 
+
+}
+
+.hfeed .site-footer .site-primary-footer-wrap .ast-builder-grid-row-container-inner .ast-builder-footer-grid-columns .site-footer-primary-section-2 .footer-widget-area .footer-widget-area-inner .widget .textwidget { 
+
+}
+
+.hfeed .site-footer .site-primary-footer-wrap .ast-builder-grid-row-container-inner .ast-builder-footer-grid-columns .site-footer-primary-section-2 .footer-widget-area .footer-widget-area-inner .widget .textwidget p { 
+
+}
+
+.hfeed .site-footer .site-primary-footer-wrap .ast-builder-grid-row-container-inner .ast-builder-footer-grid-columns .site-footer-primary-section-3 { 
+
+}
+
+.hfeed .site-footer .site-primary-footer-wrap .ast-builder-grid-row-container-inner .ast-builder-footer-grid-columns .site-footer-primary-section-3 .footer-widget-area { 
+
+}
+
+.hfeed .site-footer .site-primary-footer-wrap .ast-builder-grid-row-container-inner .ast-builder-footer-grid-columns .site-footer-primary-section-3 .footer-widget-area .footer-widget-area-inner { 
+
+}
+
+.hfeed .site-footer .site-primary-footer-wrap .ast-builder-grid-row-container-inner .ast-builder-footer-grid-columns .site-footer-primary-section-3 .footer-widget-area .footer-widget-area-inner .widget { 
+
+}
+
+.hfeed .site-footer .site-primary-footer-wrap .ast-builder-grid-row-container-inner .ast-builder-footer-grid-columns .site-footer-primary-section-3 .footer-widget-area .footer-widget-area-inner .widget .widget-title { 
+
+}
+
+.hfeed .site-footer .site-primary-footer-wrap .ast-builder-grid-row-container-inner .ast-builder-footer-grid-columns .site-footer-primary-section-3 .footer-widget-area .footer-widget-area-inner .widget .textwidget { 
+
+}
+
+.hfeed .site-footer .site-primary-footer-wrap .ast-builder-grid-row-container-inner .ast-builder-footer-grid-columns .site-footer-primary-section-3 .footer-widget-area .footer-widget-area-inner .widget .textwidget p { 
+
+}
+
+.hfeed .site-footer .site-primary-footer-wrap .ast-builder-grid-row-container-inner .ast-builder-footer-grid-columns .site-footer-primary-section-3 .footer-widget-area .footer-widget-area-inner .widget .textwidget p a { 
+
+}
+
+.hfeed .site-footer .site-primary-footer-wrap .ast-builder-grid-row-container-inner .ast-builder-footer-grid-columns .site-footer-primary-section-3 .ast-builder-layout-element { 
+
+}
+
+.hfeed .site-footer .site-primary-footer-wrap .ast-builder-grid-row-container-inner .ast-builder-footer-grid-columns .site-footer-primary-section-3 .ast-builder-layout-element .ast-footer-social-1-wrap { 
+
+}
+
+.hfeed .site-footer .site-primary-footer-wrap .ast-builder-grid-row-container-inner .ast-builder-footer-grid-columns .site-footer-primary-section-3 .ast-builder-layout-element .ast-footer-social-1-wrap .footer-social-inner-wrap { 
+
+}
+
+.hfeed .site-footer .site-primary-footer-wrap .ast-builder-grid-row-container-inner .ast-builder-footer-grid-columns .site-footer-primary-section-3 .ast-builder-layout-element .ast-footer-social-1-wrap .footer-social-inner-wrap .ast-builder-social-element { 
+
+}
+
+.hfeed .site-footer .site-primary-footer-wrap .ast-builder-grid-row-container-inner .ast-builder-footer-grid-columns .site-footer-primary-section-3 .ast-builder-layout-element .ast-footer-social-1-wrap .footer-social-inner-wrap .ast-builder-social-element .ahfb-svg-iconset { 
+
+}
+
+.hfeed .site-footer .site-primary-footer-wrap .ast-builder-grid-row-container-inner .ast-builder-footer-grid-columns .site-footer-primary-section-3 .ast-builder-layout-element .ast-footer-social-1-wrap .footer-social-inner-wrap .ast-builder-social-element .ahfb-svg-iconset svg { 
+
+}
+
+.hfeed .site-footer .site-primary-footer-wrap .ast-builder-grid-row-container-inner .ast-builder-footer-grid-columns .site-footer-primary-section-3 .ast-builder-layout-element .ast-footer-social-1-wrap .footer-social-inner-wrap .ast-builder-social-element .ahfb-svg-iconset svg path { 
+
+}
+
+.hfeed .site-footer .site-below-footer-wrap { 
+
+}
+
+.hfeed .site-footer .site-below-footer-wrap .ast-builder-grid-row-container-inner { 
+
+}
+
+.hfeed .site-footer .site-below-footer-wrap .ast-builder-grid-row-container-inner .ast-builder-footer-grid-columns { 
+
+}
+
+.hfeed .site-footer .site-below-footer-wrap .ast-builder-grid-row-container-inner .ast-builder-footer-grid-columns .site-footer-below-section-1 { 
+
+}
+
+.hfeed .site-footer .site-below-footer-wrap .ast-builder-grid-row-container-inner .ast-builder-footer-grid-columns .site-footer-below-section-1 .ast-builder-layout-element { 
+
+}
+
+.hfeed .site-footer .site-below-footer-wrap .ast-builder-grid-row-container-inner .ast-builder-footer-grid-columns .site-footer-below-section-1 .ast-builder-layout-element .ast-footer-copyright { 
+
+}
+
+.hfeed .site-footer .site-below-footer-wrap .ast-builder-grid-row-container-inner .ast-builder-footer-grid-columns .site-footer-below-section-1 .ast-builder-layout-element .ast-footer-copyright p { 
+
+}
+
+.hfeed .site-footer .site-below-footer-wrap .ast-builder-grid-row-container-inner .ast-builder-footer-grid-columns .site-footer-below-section-2 { 
+
+}
